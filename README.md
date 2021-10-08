@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my final year Masters project in Python, PHP and SQL.
 - 📫 How to reach me: Discord: exkay#0002
 
-I have several projects such as web apps using API's and databases and have repositories for my coursework during my BSc and MSc degrees. My main project is currently a web app for tracking player data from the Hypixel Minecraft Network. This website (https://ayeballers.xyz) contains player statistics, leaderboards and guild management. Using multiple API's and MySQL/MongoDB, this website has over 2000 unique monthly views and 100,000 player lookups.
+I have several projects such as web apps using API's and databases and have repositories for my coursework during my BSc and MSc degrees. My main project is currently a web app for tracking player data from the Hypixel Minecraft Network. This website (https://ayeballers.xyz) contains player statistics, leaderboards and guild management. Using multiple API's and MySQL/MongoDB, this website has over 2000 unique monthly views and 150,000 total player lookups.
 
 In the near future, I am hoping to learn Laravel to upgrade existing sites and learn how to move away from traditional PHP development to using frameworks used in the real world such as React and Angular.
 <!---
